@@ -45,4 +45,6 @@ table img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   display: block;
   margin: 0 auto;
+  width: 200px;  
+  height: 200px
 }
