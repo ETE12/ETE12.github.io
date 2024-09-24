@@ -1,0 +1,50 @@
+table {
+  width: 100%;
+  border-spacing: 15px;
+  background-color: #74b2f0;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+table td {
+  padding: 10px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+table p {
+  font-size: 1.8rem; 
+  font-weight: bold;
+  color: #ecf0f1;
+  margin: 0;
+}
+
+table ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+table li {
+  margin-bottom: 10px;
+  font-size: 1.2rem; 
+  color: white;     
+  line-height: 1.5; 
+}
+
+table li::before {
+  content: "• "; 
+  color: #ecf0f1; 
+  font-size: 1.5rem;
+}
+
+table img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: block;
+  margin: 0 auto;
+  width: 200px;  
+  height: 200px
+}
