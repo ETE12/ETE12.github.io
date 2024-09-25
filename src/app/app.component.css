@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+    background-color: #3c546d;
+}
+td {
+    vertical-align: top; 
+    padding: 10px;       
+    width: 50%;          
+  }
